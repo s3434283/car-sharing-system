@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head runat="server">
-	<title>webForm</title>
+	<title>form</title>
 	<script runat="server">
 	
 	</script>
